@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt1">MY APP</string>
+    <string name="b1">Meal Plan</string>
+    <string name="b2">Exercise</string>
+    <string name="b3">Measurement</string>
+    <string name="b4">Goal</string>
+    <string name="b5">Add Measurement</string>
+    <string name="b6">View Measurement</string>
+    <string name="tTopic">Add Measurements.</string>
+    <string name="t1">Date:</string>
+    <string name="h1">Enter Date</string>
+    <string name="t2">Height:</string>
+    <string name="h2">Enter Height</string>
+    <string name="t3">Weight:</string>
+    <string name="h2new">Enter height in m</string>
+    <string name="h3">Enter weight in kg</string>
+    <string name="t4">Arm:</string>
+    <string name="t41">L:</string>
+    <string name="t42">R:</string>
+    <string name="t5">Chest:</string>
+    <string name="h4">chest measurement</string>
+    <string name="t6">Waist:</string>
+    <string name="h6">Waist measurement</string>
+    <string name="t7">Hip:</string>
+    <string name="h7">hip measurement</string>
+    <string name="t8">BMI:</string>
+    <string name="h8">Auto calculated BMI.</string>
+    <string name="b7">OK</string>
+    <string name="b8nw">Cancel</string>
+    <string name="t2Topic">My Measurements.</string>
+</resources>
