@@ -29,4 +29,18 @@
     <string name="b7">OK</string>
     <string name="b8nw">Cancel</string>
     <string name="t2Topic">My Measurements.</string>
+    <string name="welcome">Welcome to Measurement Management System.</string>
+    <string name="Bmi">Calculate BMI</string>
+    <string name="bmi">BMI</string>
+    <string name="result">Result</string>
+    <string name="show">Show My Measurements.</string>
+    <string name="rtD">Date</string>
+    <string name="rtH">Height</string>
+    <string name="rtW">Weight</string>
+    <string name="rtL">Left arm</string>
+    <string name="rtR">Right arm</string>
+    <string name="rtChe">Chest</string>
+    <string name="rtWai">Waist</string>
+    <string name="rtHip">Hip</string>
+    <string name="btnDel">Delete</string>
 </resources>
