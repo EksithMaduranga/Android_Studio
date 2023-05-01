@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758524373864",
+    "project_id": "thechefofficial-c9647",
+    "storage_bucket": "thechefofficial-c9647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758524373864:android:ae78e3306b106a2f2084dd",
+        "android_client_info": {
+          "package_name": "com.example.thechefofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758524373864-befsnabdfpbpb1dk04n6e686cb7nfi6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuFrnKJb-qT-QJrEG703oozfwdE2bGbPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758524373864-befsnabdfpbpb1dk04n6e686cb7nfi6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
